@@ -1,10 +1,16 @@
+## TT2ADReNamer ##
+
+![](http://i.imgur.com/ytj4LpG.png?1)
+
 ※ 日本語の説明は英語の後に記載しています。
+
+Executable Binary download from [HERE](https://github.com/r-koubou/TT2AD2ReNamer/raw/master/dist/TT2ADReNamer.zip)
 
 [What's this?]
 
 Toontrack EZdrummer's midi groove file name converts to Addictive Drums2 External midi file name specification.
 Maybe EZX, SDX, Superior, MIDI Pack can convert.
-I tested follwing EZX midi groove files.
+I tested follwing EZX / SDX midi groove files.
 
     EZX AMERICANA
     EZX CLAUSTROPHOBIC
@@ -28,6 +34,8 @@ I tested follwing EZX midi groove files.
     EZX THE CLASSIC
     EZX TWISTED KIT
     EZX VINTAGE ROCK
+    SDX METAL MACHINERY
+
 
 [Require]
 
@@ -77,11 +85,13 @@ See source code.
 
 ----------
 
+実行バイナリファイルのダウンロードは[こちらから](https://github.com/r-koubou/TT2AD2ReNamer/raw/master/dist/TT2ADReNamer.zip)
+
 [これは何？]
 
 Toontrack EZdrummer シリーズの midi グルーブファイル名を Addictive Drums2 の書式に変換します。
 多分他の EZX, SDX, Superior, MIDI Pack も出来ると思います。
-テストを行った物は以下のEZX。
+テストを行った物は以下のEZX、SDX。
 
     EZX AMERICANA
     EZX CLAUSTROPHOBIC
@@ -105,6 +115,8 @@ Toontrack EZdrummer シリーズの midi グルーブファイル名を Addictiv
     EZX THE CLASSIC
     EZX TWISTED KIT
     EZX VINTAGE ROCK
+    SDX METAL MACHINERY
+
 
 [必要な環境]
 
