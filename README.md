@@ -4,9 +4,11 @@
 
 ※ 日本語の説明は英語の後に記載しています。
 
+## Download ##
+
 Executable Binary download from [HERE](https://github.com/r-koubou/TT2AD2ReNamer/raw/master/dist/TT2ADReNamer.zip)
 
-[What's this?]
+## What's this? ##
 
 Toontrack EZdrummer's midi groove file name converts to Addictive Drums2 External midi file name specification.
 Maybe EZX, SDX, Superior, MIDI Pack can convert.
@@ -37,13 +39,13 @@ I tested follwing EZX / SDX midi groove files.
     SDX METAL MACHINERY
 
 
-[Require]
+## Require ##
 
 * Windows User: Latest .net Framework
 * Mac User: Latest Mono Framework
 
 
-[STEP]
+## Step to convert ##
 
 1. Copy Folder `<Installed to EZdrummer>/Midi/` to temporary folder.
 2. Convert midi mapping to AD2.
@@ -69,7 +71,7 @@ e.g.
                 Copy to "the AD2 External MIDI Folder"
                 And refresh files（On AD2: ? -> Refresh MIDI Library）
 
-*NOTE*
+## NOTE ##
 
 1.
 NOT INCLUDED MIDI FILES.
@@ -79,15 +81,18 @@ This program CONVERTS FILE NAME ONLY!.
 You need convert mapping your MIDIFILE.
 I found convert mapping tool -> [https://midifilemapper.codeplex.com/]("https://midifilemapper.codeplex.com/")
 
-[License]
+## License ##
 
 See source code.
 
 ----------
 
+## ダウンロード ##
+
 実行バイナリファイルのダウンロードは[こちらから](https://github.com/r-koubou/TT2AD2ReNamer/raw/master/dist/TT2ADReNamer.zip)
 
-[これは何？]
+
+## これは何？ ##
 
 Toontrack EZdrummer シリーズの midi グルーブファイル名を Addictive Drums2 の書式に変換します。
 多分他の EZX, SDX, Superior, MIDI Pack も出来ると思います。
@@ -118,12 +123,12 @@ Toontrack EZdrummer シリーズの midi グルーブファイル名を Addictiv
     SDX METAL MACHINERY
 
 
-[必要な環境]
+## 必要な環境 ##
 
 * Windowsユーザー：最新の .net Framework
 * Macユーザー：最新の Mono Framework
 
-[使い方]
+## 使い方 ##
 
 1. `<EZdrummerインストール先>/Midi` を一時フォルダにコピー
 2. AD2のMIDIマッピングに変換
@@ -149,13 +154,14 @@ e.g.
                 変換後のフォルダが作成されます。
                 AD2の External MIDI Folder フォルダにコピーし、リロード（AD2上で、? -> Refresh MIDI Library）して下さい。
 
-*注意*
+## 注意 ##
+
 * 当然ですがMIDIファイルは含まれません。このツールはファイル名変換のみです。
 
 
 * 別途マッピング変換が必要です。
 * こういったツールがあるようです -> https://midifilemapper.codeplex.com/
 
-[ライセンス]
+## ライセンス ##
 
 ソースコードを見て下さい。
