@@ -42,6 +42,8 @@ DATA = [
     "EZX THE CLASSIC", "Retoro Pop Rock",
     "EZX TWISTED KIT", "Percussion",
     "EZX VINTAGE ROCK", "Rock",
+
+    "SDX METAL MACHINERY", "Metal",
 ]
 
 FILENAMES = [
@@ -67,6 +69,8 @@ FILENAMES = [
     "EZX-THE_CLASSIC.json",
     "EZX-Twisted_Kit.json",
     "EZX-Vintage_Rock.json",
+
+    "SDX-METAL_MACHINERY.json",
 ]
 
 if __name__ == "__main__":
