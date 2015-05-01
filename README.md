@@ -36,7 +36,14 @@ I tested follwing EZX / SDX midi groove files.
     EZX THE CLASSIC
     EZX TWISTED KIT
     EZX VINTAGE ROCK
+    S2.0 NY Vol1
+    S2.0 NY Vol2
+    S2.0 NY Vol3
+    SDX CUSTOM & VINTAGE
     SDX METAL MACHINERY
+    SDX MUSIC CITY USA
+    SDX THE METAL FOUNDRY
+    SDX THE ROCK WAREHOUSE
 
 
 ## Require ##
@@ -120,8 +127,14 @@ Toontrack EZdrummer シリーズの midi グルーブファイル名を Addictiv
     EZX THE CLASSIC
     EZX TWISTED KIT
     EZX VINTAGE ROCK
+    S2.0 NY Vol1
+    S2.0 NY Vol2
+    S2.0 NY Vol3
+    SDX CUSTOM & VINTAGE
     SDX METAL MACHINERY
-
+    SDX MUSIC CITY USA
+    SDX THE METAL FOUNDRY
+    SDX THE ROCK WAREHOUSE
 
 ## 必要な環境 ##
 
