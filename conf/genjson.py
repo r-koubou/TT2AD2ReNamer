@@ -43,6 +43,13 @@ DATA = [
     "EZX TWISTED KIT", "Percussion",
     "EZX VINTAGE ROCK", "Rock",
 
+    "S2.0 NY Vol1", "Pop",
+    "S2.0 NY Vol2", "Pop",
+    "S2.0 NY Vol3", "Pop",
+    "SDX MUSIC CITY USA", "Pop",
+    "SDX CUSTOM & VINTAGE", "Rock",
+    "SDX THE_ROCK_WAREHOUSE", "Rock",
+    "SDX THE_METAL_FOUNDRY", "Metal",
     "SDX METAL MACHINERY", "Metal",
 ]
 
@@ -70,6 +77,13 @@ FILENAMES = [
     "EZX-Twisted_Kit.json",
     "EZX-Vintage_Rock.json",
 
+    "S2.0-NY_Vol1.json",
+    "S2.0-NY_Vol2.json",
+    "S2.0-NY_Vol3.json",
+    "SDX-MUSIC_CITY_USA.json",
+    "SDX-CUSTOM_AND_VINTAGE.json",
+    "SDX-THE_ROCK_WAREHOUSE.json",
+    "SDX-THE_METAL_FOUNDRY.json",
     "SDX-METAL_MACHINERY.json",
 ]
 

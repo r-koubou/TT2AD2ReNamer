@@ -23,3 +23,12 @@ TT2ADReNamer conf\EZX-The_Blues.json work\Toontrack\1903@EZX_THE_BLUES target\
 TT2ADReNamer conf\EZX-THE_CLASSIC.json work\Toontrack\15@EZX_THE_CLASSIC target\
 TT2ADReNamer conf\EZX-Twisted_Kit.json work\Toontrack\10@EZX_TWISTED_KIT target\
 TT2ADReNamer conf\EZX-Vintage_Rock.json work\Toontrack\06@EZX_VINTAGE_ROCK target\
+
+TT2ADReNamer conf\S2.0-NY_Vol1.json "work\Toontrack\00001@N.Y - AVATAR" target\
+TT2ADReNamer conf\S2.0-NY_Vol2.json "work\Toontrack\00002@N.Y_-_ALLAIRE" target\
+TT2ADReNamer conf\S2.0-NY_Vol3.json "work\Toontrack\00003@N.Y_-_VOLUME_3" target\
+TT2ADReNamer conf\SDX-MUSIC_CITY_USA.json "work\Toontrack\00005@MUSIC_CITY_USA" target\
+TT2ADReNamer conf\SDX-CUSTOM_AND_VINTAGE.json "work\Toontrack\00004@CUSTOM#VINTAGE" target\
+TT2ADReNamer conf\SDX-THE_ROCK_WAREHOUSE.json "work\Toontrack\00007@THE_ROCK_WAREHOUSE" target\
+TT2ADReNamer conf\SDX-THE_METAL_FOUNDRY.json "work\Toontrack\00003@THE_METAL_FOUNDRY" target\
+TT2ADReNamer conf\SDX-METAL_MACHINERY.json "work\Toontrack\000081@METAL_MACHINERY" target\
