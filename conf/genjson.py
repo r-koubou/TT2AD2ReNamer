@@ -48,8 +48,8 @@ DATA = [
     "S2.0 NY Vol3", "Pop",
     "SDX MUSIC CITY USA", "Pop",
     "SDX CUSTOM & VINTAGE", "Rock",
-    "SDX THE_ROCK_WAREHOUSE", "Rock",
-    "SDX THE_METAL_FOUNDRY", "Metal",
+    "SDX THE_ROCK WAREHOUSE", "Rock",
+    "SDX THE_METAL FOUNDRY", "Metal",
     "SDX METAL MACHINERY", "Metal",
 ]
 
